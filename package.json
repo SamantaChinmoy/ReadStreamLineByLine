@@ -18,7 +18,7 @@
     "author": "Chinmoy Samanta <samantachinmoy01@gmai.com>",
     "repository": {
       "type": "git",
-      "url": "https://github.com/UserName/package-name.git"
+      "url": "https://github.com/SamantaChinmoy/ReadStreamLineByLine"
     },
     "private": false,
     "license": "MIT"
