@@ -1,6 +1,6 @@
 {
     "name": "readstreamlinebyline",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "This node module is used to read large file line by line via stream.",
     "keywords": [
       "stream",
