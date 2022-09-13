@@ -50,6 +50,7 @@ Initialize with Stream:
 Emitted on every line read.
 
 `result` contains the each line.
+
 `done` contains the method which should call after every line read. It is like the done method of promise. By using 
     this method we can call Asynchronous task for every line for a large file.
 
